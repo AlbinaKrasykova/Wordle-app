@@ -39,7 +39,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com![wordle](https://user-images.githubusercontent.com/91033995/189787593-dfb1c867-c398-41cc-93e3-a0ffd0661389.gif)
 /link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![Uploading wordle.gif…]()
+![](https://github.com/AlbinaKrasykova/Wordle-app/blob/main/wordle.gif) 
 
 GIF created with LICEcap
 <!-- Recommended tools:
