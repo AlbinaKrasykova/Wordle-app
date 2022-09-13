@@ -1,9 +1,9 @@
 # Wordle-app
 Wordle App
 
-# Android Project 1 - *Name of App Here*
+# Android Project 1 - *WORDLE*
 
-Submitted by: **Your Name Here**
+Submitted by: **Albina Karsykova **
 
 **WORDLE** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
